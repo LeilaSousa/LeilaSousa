@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-🌱 Estou aprendendo HTMl, CSS e JavaScript.
+🌱 Estou aprendendo HTML, CSS e JavaScript.
 
 
 <div align="center">
