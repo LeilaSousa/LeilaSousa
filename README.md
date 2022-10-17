@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-🌱 Estou aprendendo HTML, CSS, JavaScript e TypeScript.
+🌱 Estou aprendendo HTML, CSS, JavaScript e TypeScript.<br>
 🔎 Estou procurando primeira oportunidade para trabalhar como desenvolvedora junior.
 
 
