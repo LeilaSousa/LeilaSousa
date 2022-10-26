@@ -1,7 +1,8 @@
 ### Olá! 👋
 
 🌱 Estou aprendendo HTML, CSS, JavaScript e TypeScript.<br>
-🔎 Estou procurando primeira oportunidade para trabalhar como desenvolvedora junior.
+🔎 Estou procurando primeira oportunidade para trabalhar como desenvolvedora junior.<br>
+📁 Veja meu portifólio: https://leilasousa.github.io/portfolio/portifolio/
 
 
 <div align="center">
